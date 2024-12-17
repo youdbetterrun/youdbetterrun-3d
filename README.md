@@ -20,12 +20,22 @@ There are separate repositories for the PCB and firmware models.
 | Spacer                 |        1 | 3D printed                                                                                                                         |
 | Mounting Plate         |        1 | 3D printed                                                                                                                         |
 | PCB                    |        1 | [sister repository](https://github.com/youdbetterrun/youdbetterrun-pcb)                                                            |
-| M3x6mm BHCS            |        3 | Hardware store                                                                                                                     |
 | M3x3mm heat set insert |        3 | https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces                                                  |
-| Hooks                  |          | TODO When I'm back from Christmas vacation                                                                                         |
+| M3x6mm BHCS            |        3 | Hardware store                                                                                                                     |
+| M3x8mm FHCS            |        4 | Hardware store                                                                                                                     |
+| M3 locking nut         |        4 | Hardware store                                                                                                                     |
 
 ## Assembly Instructions
 
 The image below shows the exploded view of the assembly.
 
 ![Exploded view](./docs/exploded_view.png)
+
+1. 3D print everything in the `./stl/` folder. I used white PLA. No supports necessary.
+1. Add the 3 heat set inserts to the 3D-printed mounting plate.
+1. Leave the glass in the picture frame, but take out the back panel and the paper.
+1. Add the spacer into the picture frame, then add the e-paper screen behind it.
+1. Screw the PCB onto the mounting plate using the 3 BHCS.
+1. Take the clips out of the picture frame's original backing. Connect them to the 3D-printed mounting plate by inserting the FHCS from the other side and using the locking nuts.
+1. Put the mounting plate into the picture frame. Slide the hooks into the walls of the picture frame, securing everything inside.
+1. Plug in FFC cable.
