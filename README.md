@@ -16,6 +16,7 @@ There are separate repositories for the PCB and firmware models.
 | Item                   | Quantity | Source                                                                                                                             |
 | ---------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Picture Frame          |        1 | https://www.ikea.com/ca/en/p/roedalm-frame-oak-effect-10566390/ (It should be easy to adapt the 3D printing files for other sizes) |
+| e-paper screen         |        1 | [GoodDisplay 5.83" GDEQ0583T31](https://www.good-display.com/product/444.html)                                                     |
 | Spacer                 |        1 | 3D printed                                                                                                                         |
 | Mounting Plate         |        1 | 3D printed                                                                                                                         |
 | PCB                    |        1 | [sister repository](https://github.com/youdbetterrun/youdbetterrun-pcb)                                                            |
