@@ -11,6 +11,8 @@ There are separate repositories for the PCB and firmware models.
 - [Firmware](https://github.com/youdbetterrun/youdbetterrun-firmware): The code that runs on the microcontroller.
 - [PCB](https://github.com/youdbetterrun/youdbetterrun-pcb): The design files for the printed circuit board.
 
+[Blog post about this project.](https://blog.marcelrobitaille.me/youdbetterrun/)
+
 ## Bill Of Materials
 
 | Item                   | Quantity | Source                                                                                                                             |
