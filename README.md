@@ -20,9 +20,9 @@ There are separate repositories for the PCB and firmware models.
 | Spacer                 |        1 | 3D printed                                                                                                                         |
 | Mounting Plate         |        1 | 3D printed                                                                                                                         |
 | PCB                    |        1 | [sister repository](https://github.com/youdbetterrun/youdbetterrun-pcb)                                                            |
-| M3x3mm heat set insert |        3 | https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces                                                  |
-| M3x6mm BHCS            |        3 | Hardware store                                                                                                                     |
-| M3x8mm FHCS            |        4 | Hardware store                                                                                                                     |
+| M2x3mm heat set insert |        3 | https://cnckitchen.store/products/heat-set-insert-m2-x-3-100-pieces                                                                |
+| M2x6mm BHCS            |        3 | Hardware store                                                                                                                     |
+| M3x6mm FHCS            |        4 | Hardware store                                                                                                                     |
 | M3 locking nut         |        4 | Hardware store                                                                                                                     |
 
 ## Assembly Instructions
