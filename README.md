@@ -33,9 +33,16 @@ The image below shows the exploded view of the assembly.
 
 1. 3D print everything in the `./stl/` folder. I used white PLA. No supports necessary.
 1. Add the 3 heat set inserts to the 3D-printed mounting plate.
+    ![](./docs/inserts.jpg)
 1. Leave the glass in the picture frame, but take out the back panel and the paper.
 1. Add the spacer into the picture frame, then add the e-paper screen behind it.
+    ![](./docs/spacer.jpg)
+    ![](./docs/spacer_screen.jpg)
 1. Screw the PCB onto the mounting plate using the 3 BHCS.
+    ![](./docs/pcb.jpg)
 1. Take the clips out of the picture frame's original backing. Connect them to the 3D-printed mounting plate by inserting the FHCS from the other side and using the locking nuts.
+    ![](./docs/clips.jpg)
 1. Put the mounting plate into the picture frame. Slide the hooks into the walls of the picture frame, securing everything inside.
-1. Plug in FFC cable.
+1. Plug in FFC cable. Make sure the clip is up, slide in the cable, then snap the clip down.
+    ![](./docs/clip_up.jpg)
+    ![](./docs/clip_down.jpg)
